@@ -36,7 +36,7 @@ If the number is anywhere over 8 :scream: :
 `"Ummm... I don't think this can fit in the wrapper..."`
 
 ## Example Program Execution
-***IMPORTANT NOTE:*** __These three outputs are only examples showing the 4 outcomes of the number of toppings. Try running the executable in this repository and putting in your own inputs to see what happens!__
+***IMPORTANT NOTE:*** __These three outputs are only examples showing the 4 outcomes of the number of toppings. Try running the executable in this repository, `not-subway`, and putting in your own inputs to see what happens!__
 
 0 toppings:
 
