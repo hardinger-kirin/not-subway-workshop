@@ -62,3 +62,36 @@ If the number is anywhere over 8 :scream: :
 
 # Now it's time to give it a try!
 ## Need help? Post a follow-up question to the original Piazza discussion post __or__ ***come to my workshop hours!***
+
+---
+
+## Bonus!
+### The first part of the assignment covers while loops and if/else if/else statements. Want to do more? __Let's add a for loop component!__
+
+The base price of a sandwich at Not Subway :sandwich: is `$5`.
+For every topping added to the sandwich, it costs the user `$0.20`.
+Using a for loop, tally up the user's total and display the final total to them!
+
+### Example Output
+
+0 toppings:
+
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/89322661/221373652-58a0b14c-76e2-4872-9959-d4fcad3fd6ad.png">
+
+---
+
+1-3 toppings:
+
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/89322661/221373671-67f58406-a392-4d61-90c8-d771d3c8f226.png">
+
+---
+
+4-7 toppings:
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/89322661/221373678-ed5c7757-c949-4e29-9302-afe4a7f27b50.png">
+
+---
+
+8+ toppings
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/89322661/221373693-58a88b4f-b684-4f4d-be6f-12bbaa56f9ad.png">
