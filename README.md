@@ -6,7 +6,7 @@
 3. Make tasty sandwiches! :blush::sandwich:
 
 ## Important Notes
-* Do __not__ skip straight to the solution! You should work through this README document and try it on your own. If you get stuck, come to my workshop hours or ask a follow-up question on __Piazza__ to the original discussion where I posted this problem.
+* You should work through this README document and try it on your own. If you get stuck, come to my workshop hours or ask a follow-up question on __Piazza__ to the original discussion where I posted this problem.
 * Follow best practices for programming. Your code should be neat and organized (that means using indentation to section your code!) and have plenty of comments throughout. Confused? Come to my workshop hours to discuss! :blush:
 * This is __not__ an actual assignment! ***You will not clone this repository and push to it.***
 
